@@ -1,0 +1,3 @@
+include ':customer_camera'
+include ':app'
+rootProject.name = "MyCustomerDemo"
